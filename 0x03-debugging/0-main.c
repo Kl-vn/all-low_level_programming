@@ -2,7 +2,7 @@
 
 /**
  * main - Test function for is positive or negative
- * Retun: 0
+ * Return: 0
  */
 
 int main(void)
